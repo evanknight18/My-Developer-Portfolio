@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+.biography {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: red;
+    color: #ffffff;
+}
+
+.biography h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header section {
+    align-items: right;
+}
+
+.project section {
+    font-size: larger;
+    border: black;
+    border-radius: 50px;
+}
